@@ -1,4 +1,4 @@
-﻿# Proyecto Integrador - Equipo 12
+﻿# Proyecto Integrador - Equipo 
 ![Made wi**th love in Mexico](https://madewithlove.now.sh/mx?heart=true&colorB=%2346b715&template=plastic)
 
 **Tec de MTY**
@@ -10,11 +10,10 @@ Repositorio para Proyecto Integrador de la Maestría MNA
 
  - Dra. Grettel Barceló Alonso - Profesor Titular
  - Dr. Luis Eduardo Falcón Morales - Profesor Titular
- - Dr. Ricardo Ambrocio Ramírez Mendoza  – Profesor Tutor
+ - – Profesor Tutor
 
 *Alumnos:* 
 
- - Ernesto Enríquez Rubio - A01228409
- - Roberto Romero Vielma - A00822314
- - Herbert Joadan Romero Villarreal –  A01794199
-
+ - Alejandro Emmanuel Silva Ortega - A01794545
+ - Jose Luis Artigas Arroyo - A01794906
+ - José Luis Fabela Portillo - A00748551
